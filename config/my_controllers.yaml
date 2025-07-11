@@ -18,7 +18,7 @@ diff_cont:
 
     left_wheel_names: ['left_wheel_joint']
     right_wheel_names: ['right_wheel_joint']
-    wheel_separation: 0.297
+    wheel_separation: 0.30
     wheel_radius: 0.033
 
     use_stamped_vel: false
@@ -48,7 +48,7 @@ diff_cont:
     # linear.x.min_velocity: NAN
     # linear.x.max_acceleration: NAN
     # linear.x.min_acceleration: NAN
-    # linear.x.max_jerk: NAN
+    # linear.x.max_jerk: NA
     # linear.x.min_jerk: NAN
 
     # angular.z.has_velocity_limits: false
